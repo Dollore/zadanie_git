@@ -1,0 +1,1 @@
+pomnoz(a,b)
